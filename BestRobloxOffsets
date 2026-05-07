@@ -1,6 +1,6 @@
-// Roblox Version: version-acc4b74f79e743b9
+// Roblox Version: version-bf6344c9c23446bf
 // Dumped at: 2026-05-06 00:41:42
-// Total FFlags: 12943
+// Total FFlags: 13073
 // soulovery'all
 // Fuck Roblox
 
@@ -8,7 +8,7 @@
 #include <cstdint>
 
 namespace FFlagOffsets {
-    inline constexpr uintptr_t FFlagList   = 0x7c85b98;
+    inline constexpr uintptr_t FFlagList   = 0x7C85B98;
     inline constexpr uintptr_t ValueGetSet = 0x30;
     inline constexpr uintptr_t FlagToValue = 0xC0;
 }
