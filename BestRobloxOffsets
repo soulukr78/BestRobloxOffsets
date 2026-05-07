@@ -1,14 +1,17 @@
+// Roblox Version: version-acc4b74f79e743b9
+// Dumped at: 2026-05-06 00:41:42
+// Total FFlags: 12943
+// soulovery'all
+// Fuck Roblox
+
+#pragma once
 #include <cstdint>
-#include <string>
+
 namespace FFlagOffsets {
-    inline std::string ClientVersion = "version-bf6344c9c23446bf";
-
-    namespace FFlagList {
-         inline constexpr uintptr_t FFlagList = 0x7c85b98;
-         inline constexpr uintptr_t ValueGetSet = 0x30;
-         inline constexpr uintptr_t FlagToValue = 0xc0;
-    }
-
+    inline constexpr uintptr_t FFlagList   = 0x7c85b98;
+    inline constexpr uintptr_t ValueGetSet = 0x30;
+    inline constexpr uintptr_t FlagToValue = 0xC0;
+}
     namespace FFlags {
          inline constexpr uintptr_t ACEAnimationFromVideoCreatorServiceWithAssetImport = 0x767c5f0;
          inline constexpr uintptr_t ACSEnableNewExportAvatarSignal = 0x7591d78;
